@@ -1,0 +1,279 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+    
+    
+    <com.example.testandroid.MyScroll
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scroll"
+        >
+        
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+        >
+        
+            <TextView
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+                android:text="¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个¥ 30/个"
+                android:singleLine="true"
+                android:ellipsize="end"
+                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hello_world"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:id="@+id/tv_href"
+        android:autoLink="web"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         /> 
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+             
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:id="@+id/tv_abc"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />   
+            <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABCDE"
+        android:textStyle="bold"
+        android:textSize="30sp"
+         />
+            
+            
+        </LinearLayout>
+        
+    </com.example.testandroid.MyScroll>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Button" />
+    
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/button1"
+        android:layout_alignParentTop="true"
+        android:onClick="autolink"
+        android:text="AutoLink" />
+
+</RelativeLayout>
